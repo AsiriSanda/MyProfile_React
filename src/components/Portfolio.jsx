@@ -5,7 +5,6 @@ import Proj2 from '../assets/portfolio/Proj2.png';
 import sm from '../assets/portfolio/sm.JPG';
 import cs from '../assets/portfolio/cs.jpg';
 import ss from '../assets/portfolio/ss.JPG';
-import { Link } from 'react-scroll';
 
 const Portfolio = () => {
   const portfolios = [
